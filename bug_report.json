@@ -1,1 +1,14 @@
+{
+{"id":01},
+{"summary":"Can't chose a product in the section 'new' "},
+{"steps to reproduce": 
+ {{1:"open site ww.shop.com"},
+ {2:"open section 'new'"}
+}},
+{"Actual result":"eror 500"},
+{"Expectial result":"section 'new' is open"},
+{"Severity":"Blocked"},
+{"Priority":"High"},
+{"Additional information":"Win7 Opera ver.82.0.4227.43"}									
+}
 
