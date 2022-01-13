@@ -1,6 +1,6 @@
-{
-	{"name":"Dima"},
-	{"age":29},
-	{"pet":0},
-	{"salary":350}
+{"AboutMe":[{"firstName":"Dima"},
+		{"lastName":"Shefchik"},
+	    {"Pat":0},
+	    {"age":"29"},
+	    {"salary":350}]
 }
